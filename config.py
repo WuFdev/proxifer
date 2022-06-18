@@ -10,7 +10,7 @@ DATE = '20011025' # <- Windows XP release date in case you're wondering
 DATE_TOLERANCE = 365
 
 # Send Geocities requests to oocities.org if set to True.
-GEOCITIES_FIX = True
+GEOCITIES_FIX = False
 
 # Use the original Wayback Machine URL as a shortcut when loading images.
 # May result in faster page loads, but all images will point to
